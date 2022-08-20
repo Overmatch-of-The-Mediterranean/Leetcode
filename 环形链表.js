@@ -1,3 +1,4 @@
+// 第一种，自己想的，效率低，时间复杂度太高
 var hasCycle = function (head) {
   let arr = [head];
   let point = head;
