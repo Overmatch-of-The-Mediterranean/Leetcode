@@ -1,6 +1,6 @@
 // 建立虚拟链表
 var mergeTwoLists = function (list1, list2) {
-  // 用p指向虚拟链表的头节点，每次比较后，next指向小的节点，谁小，谁所在链表的指向下个节点，继续和大的节点比较。
+  // 声明一个变量(如下面的p)指向虚拟链表的头节点，每次比较后，next指向小的节点，谁小，谁所在链表的指向下个节点，继续和大的节点比较。
   let head = new ListNode();    //里面输入的参数，代表头节点的val，没有参数则val默认为0.
   let p1 = list1;
   let p2 = list2;
