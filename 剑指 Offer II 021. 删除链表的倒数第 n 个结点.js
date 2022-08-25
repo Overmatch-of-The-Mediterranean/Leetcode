@@ -24,3 +24,20 @@ var removeNthFromEnd = function (head, n) {
   }
   return hair;
 };
+
+// 快慢指针
+var removeNthFromEnd = function (head, n) {
+  const hair = new ListNode(-1, head);
+  let s = hair;
+  let f = head;
+  for (let i = 1; i <= n; i++) {
+    f = f.next;
+  }
+  if (!f && n == 1) return null;
+  while (f) {
+    f = f.next;
+    s = s.next;
+  }
+  s.next = s.next.next;
+  return hair.next;
+};
