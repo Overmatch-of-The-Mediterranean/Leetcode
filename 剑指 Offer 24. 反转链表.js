@@ -27,7 +27,7 @@ var reverseList = function (head) {
 
 // 递归
 
-//             node (这里的node，等价于node == 5)
+//             node (这里的node，等价于node = 5)
 //              ⬇
 //  1->2->3->4->5
 
