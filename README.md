@@ -22,7 +22,17 @@
 
 [202. 快乐数 - 力扣（LeetCode）](https://leetcode.cn/problems/happy-number/)
 
+[92. 反转链表 II - 力扣（LeetCode）](https://leetcode.cn/problems/reverse-linked-list-ii/)
 
+[25. K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/)
+
+[61. 旋转链表 - 力扣（LeetCode）](https://leetcode.cn/problems/rotate-list/)
+
+[19. 删除链表的倒数第 N 个结点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)
+
+[83. 删除排序链表中的重复元素 - 力扣（LeetCode）](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)
+
+[82. 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/)
 
 ### 动态规划
 
