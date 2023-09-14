@@ -34,6 +34,10 @@
 
 [82. 删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/)
 
+[86. 分隔链表 - 力扣（LeetCode）](https://leetcode.cn/problems/partition-list/)
+
+[138. 复制带随机指针的链表 - 力扣（LeetCode）](https://leetcode.cn/problems/copy-list-with-random-pointer/)
+
 ### 动态规划
 
 [70. 爬楼梯 - 力扣（LeetCode）](https://leetcode.cn/problems/climbing-stairs/)
