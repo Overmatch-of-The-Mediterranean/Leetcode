@@ -8,6 +8,10 @@
 
 [剑指 Offer 62. 圆圈中最后剩下的数字 - 力扣（LeetCode）](https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 
+[622. 设计循环队列 - 力扣（LeetCode）](https://leetcode.cn/problems/design-circular-queue/)
+
+[641. 设计循环双端队列 - 力扣（LeetCode）](https://leetcode.cn/problems/design-circular-deque/)
+
 ### 链表
 
 [707. 设计链表 - 力扣（LeetCode）](https://leetcode.cn/problems/design-linked-list/)
