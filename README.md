@@ -1,3 +1,7 @@
+### 字符串
+
+[859. 亲密字符串 - 力扣（LeetCode）](https://leetcode.cn/problems/buddy-strings/)
+
 ### 栈
 
 [20. 有效的括号 - 力扣（LeetCode）](https://leetcode.cn/problems/valid-parentheses/)
@@ -11,6 +15,12 @@
 [622. 设计循环队列 - 力扣（LeetCode）](https://leetcode.cn/problems/design-circular-queue/)
 
 [641. 设计循环双端队列 - 力扣（LeetCode）](https://leetcode.cn/problems/design-circular-deque/)
+
+[1670. 设计前中后队列 - 力扣（LeetCode）](https://leetcode.cn/problems/design-front-middle-back-queue/)
+
+[933. 最近的请求次数 - 力扣（LeetCode）](https://leetcode.cn/problems/number-of-recent-calls/)
+
+[面试题 17.09. 第 k 个数 - 力扣（LeetCode）](https://leetcode.cn/problems/get-kth-magic-number-lcci/)
 
 ### 链表
 
@@ -49,3 +59,13 @@
 [121. 买卖股票的最佳时机 - 力扣（LeetCode）](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)
 
 [53. 最大子数组和 - 力扣（LeetCode）](https://leetcode.cn/problems/maximum-subarray/)
+
+
+
+### 其他
+
+[860. 柠檬水找零 - 力扣（LeetCode）](https://leetcode.cn/problems/lemonade-change/)
+
+[969. 煎饼排序 - 力扣（LeetCode）](https://leetcode.cn/problems/pancake-sorting/)
+
+[621. 任务调度器 - 力扣（LeetCode）](https://leetcode.cn/problems/task-scheduler/)
