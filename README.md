@@ -6,7 +6,13 @@
 
 [20. 有效的括号 - 力扣（LeetCode）](https://leetcode.cn/problems/valid-parentheses/)
 
+[面试题 03.04. 化栈为队 - 力扣（LeetCode）](https://leetcode.cn/problems/implement-queue-using-stacks-lcci/)
 
+[682. 棒球比赛 - 力扣（LeetCode）](https://leetcode.cn/problems/baseball-game/)
+
+[844. 比较含退格的字符串 - 力扣（LeetCode）](https://leetcode.cn/problems/backspace-string-compare/)
+
+[946. 验证栈序列 - 力扣（LeetCode）](https://leetcode.cn/problems/validate-stack-sequences/)
 
 ### 队列
 
