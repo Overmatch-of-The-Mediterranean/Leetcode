@@ -14,6 +14,14 @@
 
 [946. 验证栈序列 - 力扣（LeetCode）](https://leetcode.cn/problems/validate-stack-sequences/)
 
+[1021. 删除最外层的括号 - 力扣（LeetCode）](https://leetcode.cn/problems/remove-outermost-parentheses/)
+
+[1249. 移除无效的括号 - 力扣（LeetCode）](https://leetcode.cn/problems/minimum-remove-to-make-valid-parentheses/)
+
+[145. 二叉树的后序遍历 - 力扣（LeetCode）](https://leetcode.cn/problems/binary-tree-postorder-traversal/)
+
+[331. 验证二叉树的前序序列化 - 力扣（LeetCode）](https://leetcode.cn/problems/verify-preorder-serialization-of-a-binary-tree/)
+
 ### 队列
 
 [剑指 Offer 62. 圆圈中最后剩下的数字 - 力扣（LeetCode）](https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
