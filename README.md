@@ -22,6 +22,10 @@
 
 [331. 验证二叉树的前序序列化 - 力扣（LeetCode）](https://leetcode.cn/problems/verify-preorder-serialization-of-a-binary-tree/)
 
+[227. 基本计算器 II - 力扣（LeetCode）](https://leetcode.cn/problems/basic-calculator-ii/)
+
+[636. 函数的独占时间 - 力扣（LeetCode）](https://leetcode.cn/problems/exclusive-time-of-functions/description/)
+
 ### 队列
 
 [剑指 Offer 62. 圆圈中最后剩下的数字 - 力扣（LeetCode）](https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
