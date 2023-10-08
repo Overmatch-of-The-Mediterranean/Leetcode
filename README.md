@@ -98,6 +98,16 @@
 
 [662. 二叉树最大宽度 - 力扣（LeetCode）](https://leetcode.cn/problems/maximum-width-of-binary-tree/)
 
+
+
+### 堆
+
+[1046. 最后一块石头的重量 - 力扣（LeetCode）](https://leetcode.cn/problems/last-stone-weight/)
+
+[703. 数据流中的第 K 大元素 - 力扣（LeetCode）](https://leetcode.cn/problems/kth-largest-element-in-a-stream/)
+
+[215. 数组中的第K个最大元素 - 力扣（LeetCode）](https://leetcode.cn/problems/kth-largest-element-in-an-array/)
+
 ### 动态规划
 
 [70. 爬楼梯 - 力扣（LeetCode）](https://leetcode.cn/problems/climbing-stairs/)
