@@ -108,6 +108,18 @@
 
 [215. 数组中的第K个最大元素 - 力扣（LeetCode）](https://leetcode.cn/problems/kth-largest-element-in-an-array/)
 
+[373. 查找和最小的 K 对数字 - 力扣（LeetCode）](https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/)
+
+[692. 前K个高频单词 - 力扣（LeetCode）](https://leetcode.cn/problems/top-k-frequent-words/)
+
+[295. 数据流的中位数 - 力扣（LeetCode）](https://leetcode.cn/problems/find-median-from-data-stream/)
+
+[面试题 17.20. 连续中值 - 力扣（LeetCode）](https://leetcode.cn/problems/continuous-median-lcci/)
+
+[264. 丑数 II - 力扣（LeetCode）](https://leetcode.cn/problems/ugly-number-ii/)
+
+[313. 超级丑数 - 力扣（LeetCode）](https://leetcode.cn/problems/super-ugly-number/)
+
 ### 动态规划
 
 [70. 爬楼梯 - 力扣（LeetCode）](https://leetcode.cn/problems/climbing-stairs/)
