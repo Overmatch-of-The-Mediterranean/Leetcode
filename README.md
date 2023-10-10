@@ -120,6 +120,16 @@
 
 [313. 超级丑数 - 力扣（LeetCode）](https://leetcode.cn/problems/super-ugly-number/)
 
+[1753. 移除石子的最大得分 - 力扣（LeetCode）](https://leetcode.cn/problems/maximum-score-from-removing-stones/)
+
+[1801. 积压订单中的订单总数 - 力扣（LeetCode）](https://leetcode.cn/problems/number-of-orders-in-the-backlog/)
+
+### 并查集
+
+[547. 省份数量 - 力扣（LeetCode）](https://leetcode.cn/problems/number-of-provinces/description/)
+
+[200. 岛屿数量 - 力扣（LeetCode）](https://leetcode.cn/problems/number-of-islands/)
+
 ### 动态规划
 
 [70. 爬楼梯 - 力扣（LeetCode）](https://leetcode.cn/problems/climbing-stairs/)
