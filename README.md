@@ -130,6 +130,16 @@
 
 [200. 岛屿数量 - 力扣（LeetCode）](https://leetcode.cn/problems/number-of-islands/)
 
+[990. 等式方程的可满足性 - 力扣（LeetCode）](https://leetcode.cn/problems/satisfiability-of-equality-equations/)
+
+[684. 冗余连接 - 力扣（LeetCode）](https://leetcode.cn/problems/redundant-connection/)
+
+[1319. 连通网络的操作次数 - 力扣（LeetCode）](https://leetcode.cn/problems/number-of-operations-to-make-network-connected/)
+
+[128. 最长连续序列 - 力扣（LeetCode）](https://leetcode.cn/problems/longest-consecutive-sequence/)
+
+[947. 移除最多的同行或同列石头 - 力扣（LeetCode）](https://leetcode.cn/problems/most-stones-removed-with-same-row-or-column/)
+
 ### 动态规划
 
 [70. 爬楼梯 - 力扣（LeetCode）](https://leetcode.cn/problems/climbing-stairs/)
