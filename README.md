@@ -140,6 +140,32 @@
 
 [947. 移除最多的同行或同列石头 - 力扣（LeetCode）](https://leetcode.cn/problems/most-stones-removed-with-same-row-or-column/)
 
+[1202. 交换字符串中的元素 - 力扣（LeetCode）](https://leetcode.cn/problems/smallest-string-with-swaps/description/)
+
+
+
+### 排序
+
+[912. 排序数组 - 力扣（LeetCode）](https://leetcode.cn/problems/sort-an-array/description/)
+
+[148. 排序链表 - 力扣（LeetCode）](https://leetcode.cn/problems/sort-list/)
+
+[75. 颜色分类 - 力扣（LeetCode）](https://leetcode.cn/problems/sort-colors/)
+
+[面试题 17.14. 最小K个数 - 力扣（LeetCode）](https://leetcode.cn/problems/smallest-k-lcci/)
+
+[95. 不同的二叉搜索树 II - 力扣（LeetCode）](https://leetcode.cn/problems/unique-binary-search-trees-ii/)
+
+[394. 字符串解码 - 力扣（LeetCode）](https://leetcode.cn/problems/decode-string/)
+
+[11. 盛最多水的容器 - 力扣（LeetCode）](https://leetcode.cn/problems/container-with-most-water/)
+
+[470. 用 Rand7() 实现 Rand10() - 力扣（LeetCode）](https://leetcode.cn/problems/implement-rand10-using-rand7/)
+
+[239. 滑动窗口最大值 - 力扣（LeetCode）](https://leetcode.cn/problems/sliding-window-maximum/)
+
+
+
 ### 动态规划
 
 [70. 爬楼梯 - 力扣（LeetCode）](https://leetcode.cn/problems/climbing-stairs/)
