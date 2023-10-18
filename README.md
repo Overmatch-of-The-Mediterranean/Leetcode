@@ -146,6 +146,8 @@
 
 ### 排序
 
+#### 快排
+
 [912. 排序数组 - 力扣（LeetCode）](https://leetcode.cn/problems/sort-an-array/description/)
 
 [148. 排序链表 - 力扣（LeetCode）](https://leetcode.cn/problems/sort-list/)
@@ -165,6 +167,22 @@
 [239. 滑动窗口最大值 - 力扣（LeetCode）](https://leetcode.cn/problems/sliding-window-maximum/)
 
 
+
+#### 归并
+
+[148. 排序链表 - 力扣（LeetCode）](https://leetcode.cn/problems/sort-list/)
+
+[1305. 两棵二叉搜索树中的所有元素 - 力扣（LeetCode）](https://leetcode.cn/problems/all-elements-in-two-binary-search-trees/)
+
+[327. 区间和的个数 - 力扣（LeetCode）](https://leetcode.cn/problems/count-of-range-sum/)
+
+[315. 计算右侧小于当前元素的个数 - 力扣（LeetCode）](https://leetcode.cn/problems/count-of-smaller-numbers-after-self/)
+
+[1508. 子数组和排序后的区间和 - 力扣（LeetCode）](https://leetcode.cn/problems/range-sum-of-sorted-subarray-sums/)
+
+[面试题 04.08. 首个共同祖先 - 力扣（LeetCode）](https://leetcode.cn/problems/first-common-ancestor-lcci/)
+
+[1302. 层数最深叶子节点的和 - 力扣（LeetCode）](https://leetcode.cn/problems/deepest-leaves-sum/)
 
 ### 动态规划
 
