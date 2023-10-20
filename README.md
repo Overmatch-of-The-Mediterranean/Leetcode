@@ -184,6 +184,36 @@
 
 [1302. 层数最深叶子节点的和 - 力扣（LeetCode）](https://leetcode.cn/problems/deepest-leaves-sum/)
 
+
+
+### 计数和基数排序
+
+[1122. 数组的相对排序 - 力扣（LeetCode）](https://leetcode.cn/problems/relative-sort-array/)
+
+[164. 最大间距 - 力扣（LeetCode）](https://leetcode.cn/problems/maximum-gap/)
+
+[274. H 指数 - 力扣（LeetCode）](https://leetcode.cn/problems/h-index/)
+
+
+
+#### 归并
+
+[207. 课程表 - 力扣（LeetCode）](https://leetcode.cn/problems/course-schedule/)
+
+[210. 课程表 II - 力扣（LeetCode）](https://leetcode.cn/problems/course-schedule-ii/)
+
+[56. 合并区间 - 力扣（LeetCode）](https://leetcode.cn/problems/merge-intervals/)
+
+
+
+#### 排序-其他
+
+[56. 合并区间 - 力扣（LeetCode）](https://leetcode.cn/problems/merge-intervals/)
+
+[面试题 04.12. 求和路径 - 力扣（LeetCode）](https://leetcode.cn/problems/paths-with-sum-lcci/)
+
+
+
 ### 动态规划
 
 [70. 爬楼梯 - 力扣（LeetCode）](https://leetcode.cn/problems/climbing-stairs/)
@@ -193,6 +223,8 @@
 [53. 最大子数组和 - 力扣（LeetCode）](https://leetcode.cn/problems/maximum-subarray/)
 
 [968. 监控二叉树 - 力扣（LeetCode）](https://leetcode.cn/problems/binary-tree-cameras/description/)
+
+
 
 ### 其他
 
