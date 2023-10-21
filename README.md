@@ -204,6 +204,8 @@
 
 [56. 合并区间 - 力扣（LeetCode）](https://leetcode.cn/problems/merge-intervals/)
 
+[23. 合并 K 个升序链表 - 力扣（LeetCode）](https://leetcode.cn/problems/merge-k-sorted-lists/description/)
+
 
 
 #### 排序-其他
@@ -211,6 +213,8 @@
 [56. 合并区间 - 力扣（LeetCode）](https://leetcode.cn/problems/merge-intervals/)
 
 [面试题 04.12. 求和路径 - 力扣（LeetCode）](https://leetcode.cn/problems/paths-with-sum-lcci/)
+
+[491. 递增子序列 - 力扣（LeetCode）](https://leetcode.cn/problems/non-decreasing-subsequences/description/)
 
 
 
