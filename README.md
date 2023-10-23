@@ -196,6 +196,22 @@
 
 
 
+### 二分算法
+
+[69. x 的平方根 - 力扣（LeetCode）](https://leetcode.cn/problems/sqrtx/)
+
+[35. 搜索插入位置 - 力扣（LeetCode）](https://leetcode.cn/problems/search-insert-position/)
+
+[1. 两数之和 - 力扣（LeetCode）](https://leetcode.cn/problems/two-sum/)
+
+[34. 在排序数组中查找元素的第一个和最后一个位置 - 力扣（LeetCode）](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+[1658. 将 x 减到 0 的最小操作数 - 力扣（LeetCode）](https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/)
+
+[475. 供暖器 - 力扣（LeetCode）](https://leetcode.cn/problems/heaters/)
+
+[81. 搜索旋转排序数组 II - 力扣（LeetCode）](https://leetcode.cn/problems/search-in-rotated-sorted-array-ii/)
+
 #### 归并
 
 [207. 课程表 - 力扣（LeetCode）](https://leetcode.cn/problems/course-schedule/)
