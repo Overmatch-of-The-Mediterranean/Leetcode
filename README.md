@@ -244,6 +244,22 @@
 
 [706. 设计哈希映射 - 力扣（LeetCode）](https://leetcode.cn/problems/design-hashmap/)
 
+[面试题 16.25. LRU 缓存 - 力扣（LeetCode）](https://leetcode.cn/problems/lru-cache-lcci/)
+
+[535. TinyURL 的加密与解密 - 力扣（LeetCode）](https://leetcode.cn/problems/encode-and-decode-tinyurl/)
+
+[187. 重复的DNA序列 - 力扣（LeetCode）](https://leetcode.cn/problems/repeated-dna-sequences/)
+
+[318. 最大单词长度乘积 - 力扣（LeetCode）](https://leetcode.cn/problems/maximum-product-of-word-lengths/)
+
+#### 温故而知新-递归
+
+[979. 在二叉树中分配硬币 - 力扣（LeetCode）](https://leetcode.cn/problems/distribute-coins-in-binary-tree/description/)
+
+[430. 扁平化多级双向链表 - 力扣（LeetCode）](https://leetcode.cn/problems/flatten-a-multilevel-doubly-linked-list/description/)
+
+[863. 二叉树中所有距离为 K 的结点 - 力扣（LeetCode）](https://leetcode.cn/problems/all-nodes-distance-k-in-binary-tree/description/)
+
 
 
 ### 动态规划
@@ -265,3 +281,5 @@
 [969. 煎饼排序 - 力扣（LeetCode）](https://leetcode.cn/problems/pancake-sorting/)
 
 [621. 任务调度器 - 力扣（LeetCode）](https://leetcode.cn/problems/task-scheduler/)
+
+[240. 搜索二维矩阵 II - 力扣（LeetCode）](https://leetcode.cn/problems/search-a-2d-matrix-ii/description/)
