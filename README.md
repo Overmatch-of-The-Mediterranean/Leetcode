@@ -262,6 +262,34 @@
 
 
 
+### DFS和BFS
+
+[993. 二叉树的堂兄弟节点 - 力扣（LeetCode）](https://leetcode.cn/problems/cousins-in-binary-tree/)
+
+#### BFS
+
+[542. 01 矩阵 - 力扣（LeetCode）](https://leetcode.cn/problems/01-matrix/)
+
+[1091. 二进制矩阵中的最短路径 - 力扣（LeetCode）](https://leetcode.cn/problems/shortest-path-in-binary-matrix/)
+
+[752. 打开转盘锁 - 力扣（LeetCode）](https://leetcode.cn/problems/open-the-lock/)
+
+#### DFS
+
+[130. 被围绕的区域 - 力扣（LeetCode）](https://leetcode.cn/problems/surrounded-regions/)
+
+[494. 目标和 - 力扣（LeetCode）](https://leetcode.cn/problems/target-sum/)
+
+[473. 火柴拼正方形 - 力扣（LeetCode）](https://leetcode.cn/problems/matchsticks-to-square/)
+
+[39. 组合总和 - 力扣（LeetCode）](https://leetcode.cn/problems/combination-sum/)
+
+[51. N 皇后 - 力扣（LeetCode）](https://leetcode.cn/problems/n-queens/)
+
+
+
+
+
 ### 动态规划
 
 [70. 爬楼梯 - 力扣（LeetCode）](https://leetcode.cn/problems/climbing-stairs/)
