@@ -288,6 +288,14 @@
 
 
 
+### 单调队列
+
+[239. 滑动窗口最大值 - 力扣（LeetCode）](https://leetcode.cn/problems/sliding-window-maximum/)
+
+[862. 和至少为 K 的最短子数组 - 力扣（LeetCode）](https://leetcode.cn/problems/shortest-subarray-with-sum-at-least-k/)
+
+[1438. 绝对差不超过限制的最长连续子数组 - 力扣（LeetCode）](https://leetcode.cn/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)
+
 
 
 ### 动态规划
