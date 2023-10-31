@@ -296,7 +296,21 @@
 
 [1438. 绝对差不超过限制的最长连续子数组 - 力扣（LeetCode）](https://leetcode.cn/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)
 
+#### 温故知新-其他
 
+[513. 找树左下角的值 - 力扣（LeetCode）](https://leetcode.cn/problems/find-bottom-left-tree-value/)
+
+[135. 分发糖果 - 力扣（LeetCode）](https://leetcode.cn/problems/candy/)
+
+[365. 水壶问题 - 力扣（LeetCode）](https://leetcode.cn/problems/water-and-jug-problem/)
+
+[1760. 袋子里最少数目的球 - 力扣（LeetCode）](https://leetcode.cn/problems/minimum-limit-of-balls-in-a-bag/)
+
+[45. 跳跃游戏 II - 力扣（LeetCode）](https://leetcode.cn/problems/jump-game-ii/)
+
+[93. 复原 IP 地址 - 力扣（LeetCode）](https://leetcode.cn/problems/restore-ip-addresses/)
+
+[43. 字符串相乘 - 力扣（LeetCode）](https://leetcode.cn/problems/multiply-strings/)
 
 ### 动态规划
 
