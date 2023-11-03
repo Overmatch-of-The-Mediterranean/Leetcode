@@ -312,6 +312,18 @@
 
 [43. 字符串相乘 - 力扣（LeetCode）](https://leetcode.cn/problems/multiply-strings/)
 
+
+
+### 单调栈
+
+[155. 最小栈 - 力扣（LeetCode）](https://leetcode.cn/problems/min-stack/)
+
+[503. 下一个更大元素 II - 力扣（LeetCode）](https://leetcode.cn/problems/next-greater-element-ii/description/)
+
+[901. 股票价格跨度 - 力扣（LeetCode）](https://leetcode.cn/problems/online-stock-span/description/)
+
+[739. 每日温度 - 力扣（LeetCode）](https://leetcode.cn/problems/daily-temperatures/)
+
 ### 动态规划
 
 [70. 爬楼梯 - 力扣（LeetCode）](https://leetcode.cn/problems/climbing-stairs/)
