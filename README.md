@@ -98,6 +98,12 @@
 
 [662. 二叉树最大宽度 - 力扣（LeetCode）](https://leetcode.cn/problems/maximum-width-of-binary-tree/)
 
+[1367. 二叉树中的链表 - 力扣（LeetCode）](https://leetcode.cn/problems/linked-list-in-binary-tree/)
+
+[958. 二叉树的完全性检验 - 力扣（LeetCode）](https://leetcode.cn/problems/check-completeness-of-a-binary-tree/)
+
+[LCR 155. 将二叉搜索树转化为排序的双向链表 - 力扣（LeetCode）](https://leetcode.cn/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)
+
 
 
 ### 堆
@@ -286,6 +292,8 @@
 
 [51. N 皇后 - 力扣（LeetCode）](https://leetcode.cn/problems/n-queens/)
 
+[464. 我能赢吗 - 力扣（LeetCode）](https://leetcode.cn/problems/can-i-win/description/)
+
 
 
 ### 单调队列
@@ -324,6 +332,18 @@
 
 [739. 每日温度 - 力扣（LeetCode）](https://leetcode.cn/problems/daily-temperatures/)
 
+[84. 柱状图中最大的矩形 - 力扣（LeetCode）](https://leetcode.cn/problems/largest-rectangle-in-histogram/)
+
+[1856. 子数组最小乘积的最大值 - 力扣（LeetCode）](https://leetcode.cn/problems/maximum-subarray-min-product/)
+
+[907. 子数组的最小值之和 - 力扣（LeetCode）](https://leetcode.cn/problems/sum-of-subarray-minimums/)
+
+[496. 下一个更大元素 I - 力扣（LeetCode）](https://leetcode.cn/problems/next-greater-element-i/)
+
+[456. 132 模式 - 力扣（LeetCode）](https://leetcode.cn/problems/132-pattern/description/)
+
+[42. 接雨水 - 力扣（LeetCode）](https://leetcode.cn/problems/trapping-rain-water/description/)
+
 ### 动态规划
 
 [70. 爬楼梯 - 力扣（LeetCode）](https://leetcode.cn/problems/climbing-stairs/)
@@ -345,3 +365,4 @@
 [621. 任务调度器 - 力扣（LeetCode）](https://leetcode.cn/problems/task-scheduler/)
 
 [240. 搜索二维矩阵 II - 力扣（LeetCode）](https://leetcode.cn/problems/search-a-2d-matrix-ii/description/)
+
