@@ -2,6 +2,10 @@
 
 [859. 亲密字符串 - 力扣（LeetCode）](https://leetcode.cn/problems/buddy-strings/)
 
+[395. 至少有 K 个重复字符的最长子串 - 力扣（LeetCode）](https://leetcode.cn/problems/longest-substring-with-at-least-k-repeating-characters/description/)
+
+[8. 字符串转换整数 (atoi) - 力扣（LeetCode）](https://leetcode.cn/problems/string-to-integer-atoi/)
+
 ### 栈
 
 [20. 有效的括号 - 力扣（LeetCode）](https://leetcode.cn/problems/valid-parentheses/)
@@ -103,6 +107,8 @@
 [958. 二叉树的完全性检验 - 力扣（LeetCode）](https://leetcode.cn/problems/check-completeness-of-a-binary-tree/)
 
 [LCR 155. 将二叉搜索树转化为排序的双向链表 - 力扣（LeetCode）](https://leetcode.cn/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)
+
+[437. 路径总和 III - 力扣（LeetCode）](https://leetcode.cn/problems/path-sum-iii/description/)
 
 
 
@@ -304,6 +310,8 @@
 
 [1438. 绝对差不超过限制的最长连续子数组 - 力扣（LeetCode）](https://leetcode.cn/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)
 
+[1499. 满足不等式的最大值 - 力扣（LeetCode）](https://leetcode.cn/problems/max-value-of-equation/)
+
 #### 温故知新-其他
 
 [513. 找树左下角的值 - 力扣（LeetCode）](https://leetcode.cn/problems/find-bottom-left-tree-value/)
@@ -344,6 +352,12 @@
 
 [42. 接雨水 - 力扣（LeetCode）](https://leetcode.cn/problems/trapping-rain-water/description/)
 
+[402. 移掉 K 位数字 - 力扣（LeetCode）](https://leetcode.cn/problems/remove-k-digits/)
+
+[1081. 不同字符的最小子序列 - 力扣（LeetCode）](https://leetcode.cn/problems/smallest-subsequence-of-distinct-characters/)
+
+[316. 去除重复字母 - 力扣（LeetCode）](https://leetcode.cn/problems/remove-duplicate-letters/)
+
 ### 动态规划
 
 [70. 爬楼梯 - 力扣（LeetCode）](https://leetcode.cn/problems/climbing-stairs/)
@@ -366,3 +380,8 @@
 
 [240. 搜索二维矩阵 II - 力扣（LeetCode）](https://leetcode.cn/problems/search-a-2d-matrix-ii/description/)
 
+[172. 阶乘后的零 - 力扣（LeetCode）](https://leetcode.cn/problems/factorial-trailing-zeroes/description/)
+
+[384. 打乱数组 - 力扣（LeetCode）](https://leetcode.cn/problems/shuffle-an-array/description/)
+
+[380. O(1) 时间插入、删除和获取随机元素 - 力扣（LeetCode）](https://leetcode.cn/problems/insert-delete-getrandom-o1/)
