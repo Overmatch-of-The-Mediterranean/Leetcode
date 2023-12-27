@@ -13,3 +13,18 @@ function maxSubArray(nums: number[]): number {
     return max
 
 };
+
+// 前缀和
+function maxSubArray(nums: number[]): number {
+    for(let i = 1;i < nums.length;i++) nums[i] += nums[i-1]
+
+    let preMin = 0
+    let ans = Number.MAX_VALUE * (-1)
+    for(let i = 0;i < nums.length;i++) {
+        ans = Math.max(nums[i] - preMin, ans)
+        preMin = Math.min(nums[i], preMin)
+    }
+
+    return ans
+
+};

@@ -1,4 +1,6 @@
-### 字符串
+# 目前218道，先就这吧。
+
+### 字符串(11)
 
 [859. 亲密字符串 - 力扣（LeetCode）](https://leetcode.cn/problems/buddy-strings/)
 
@@ -6,7 +8,23 @@
 
 [8. 字符串转换整数 (atoi) - 力扣（LeetCode）](https://leetcode.cn/problems/string-to-integer-atoi/)
 
-### 栈
+[459. 重复的子字符串 - 力扣（LeetCode）](https://leetcode.cn/problems/repeated-substring-pattern/)
+
+[1392. 最长快乐前缀 - 力扣（LeetCode）](https://leetcode.cn/problems/longest-happy-prefix/)
+
+[214. 最短回文串 - 力扣（LeetCode）](https://leetcode.cn/problems/shortest-palindrome/)
+
+[5. 最长回文子串 - 力扣（LeetCode）](https://leetcode.cn/problems/longest-palindromic-substring/description/)
+
+[28. 找出字符串中第一个匹配项的下标 - 力扣（LeetCode）](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+
+[3. 无重复字符的最长子串 - 力扣（LeetCode）](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)
+
+[面试题 01.05. 一次编辑 - 力扣（LeetCode）](https://leetcode.cn/problems/one-away-lcci/description/)
+
+[12. 整数转罗马数字 - 力扣（LeetCode）](https://leetcode.cn/problems/integer-to-roman/description/)
+
+### 栈(11)
 
 [20. 有效的括号 - 力扣（LeetCode）](https://leetcode.cn/problems/valid-parentheses/)
 
@@ -30,7 +48,7 @@
 
 [636. 函数的独占时间 - 力扣（LeetCode）](https://leetcode.cn/problems/exclusive-time-of-functions/description/)
 
-### 队列
+### 队列(6)
 
 [剑指 Offer 62. 圆圈中最后剩下的数字 - 力扣（LeetCode）](https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/)
 
@@ -44,7 +62,7 @@
 
 [面试题 17.09. 第 k 个数 - 力扣（LeetCode）](https://leetcode.cn/problems/get-kth-magic-number-lcci/)
 
-### 链表
+### 链表(16)
 
 [707. 设计链表 - 力扣（LeetCode）](https://leetcode.cn/problems/design-linked-list/)
 
@@ -74,11 +92,13 @@
 
 [138. 复制带随机指针的链表 - 力扣（LeetCode）](https://leetcode.cn/problems/copy-list-with-random-pointer/)
 
+[382. 链表随机节点](https://leetcode.cn/problems/linked-list-random-node/)
+
+[234. 回文链表 - 力扣（LeetCode）](https://leetcode.cn/problems/palindrome-linked-list/description/)
 
 
 
-
-### 树
+### 树(18)
 
 [589. N 叉树的前序遍历 - 力扣（LeetCode）](https://leetcode.cn/problems/n-ary-tree-preorder-traversal/)
 
@@ -110,9 +130,51 @@
 
 [437. 路径总和 III - 力扣（LeetCode）](https://leetcode.cn/problems/path-sum-iii/description/)
 
+[1339. 分裂二叉树的最大乘积 - 力扣（LeetCode）](https://leetcode.cn/problems/maximum-product-of-splitted-binary-tree/)
+
+[971. 翻转二叉树以匹配先序遍历 - 力扣（LeetCode）](https://leetcode.cn/problems/flip-binary-tree-to-match-preorder-traversal/description/)
+
+[117. 填充每个节点的下一个右侧节点指针 II - 力扣（LeetCode）](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/)
 
 
-### 堆
+
+
+
+
+
+
+
+### 二叉排序(搜索)树(14)
+
+[面试题 04.06. 后继者 - 力扣（LeetCode）](https://leetcode.cn/problems/successor-lcci/)
+
+[450. 删除二叉搜索树中的节点 - 力扣（LeetCode）](https://leetcode.cn/problems/delete-node-in-a-bst/)
+
+[1382. 将二叉搜索树变平衡 - 力扣（LeetCode）](https://leetcode.cn/problems/balance-a-binary-search-tree/)
+
+[108. 将有序数组转换为二叉搜索树 - 力扣（LeetCode）](https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/)
+
+[98. 验证二叉搜索树 - 力扣（LeetCode）](https://leetcode.cn/problems/validate-binary-search-tree/description/)
+
+[501. 二叉搜索树中的众数](https://leetcode.cn/problems/find-mode-in-binary-search-tree/)
+
+[面试题 17.12. BiNode - 力扣（LeetCode）](https://leetcode.cn/problems/binode-lcci/description/)
+
+[LCR 152. 验证二叉搜索树的后序遍历序列 - 力扣（LeetCode）](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/description/)
+
+[1008. 前序遍历构造二叉搜索树 - 力扣（LeetCode）](https://leetcode.cn/problems/construct-binary-search-tree-from-preorder-traversal/description/)
+
+[面试题 04.09. 二叉搜索树序列 - 力扣（LeetCode）](https://leetcode.cn/problems/bst-sequences-lcci/description/)
+
+[LCR 053. 二叉搜索树中的中序后继 - 力扣（LeetCode）](https://leetcode.cn/problems/P5rCT8/description/)
+
+[449. 序列化和反序列化二叉搜索树 - 力扣（LeetCode）](https://leetcode.cn/problems/serialize-and-deserialize-bst/description/)
+
+[99. 恢复二叉搜索树 - 力扣（LeetCode）](https://leetcode.cn/problems/recover-binary-search-tree/description/)
+
+[653. 两数之和 IV - 输入二叉搜索树 - 力扣（LeetCode）](https://leetcode.cn/problems/two-sum-iv-input-is-a-bst/description/)
+
+### 堆(11)
 
 [1046. 最后一块石头的重量 - 力扣（LeetCode）](https://leetcode.cn/problems/last-stone-weight/)
 
@@ -136,7 +198,7 @@
 
 [1801. 积压订单中的订单总数 - 力扣（LeetCode）](https://leetcode.cn/problems/number-of-orders-in-the-backlog/)
 
-### 并查集
+### 并查集(8)
 
 [547. 省份数量 - 力扣（LeetCode）](https://leetcode.cn/problems/number-of-provinces/description/)
 
@@ -156,7 +218,7 @@
 
 
 
-### 排序
+### 排序(34)
 
 #### 快排
 
@@ -230,7 +292,7 @@
 
 
 
-### 二分算法
+### 二分算法(8)
 
 [69. x 的平方根 - 力扣（LeetCode）](https://leetcode.cn/problems/sqrtx/)
 
@@ -250,7 +312,7 @@
 
 
 
-### 哈希表
+### 哈希表(9)
 
 [705. 设计哈希集合 - 力扣（LeetCode）](https://leetcode.cn/problems/design-hashset/)
 
@@ -274,7 +336,7 @@
 
 
 
-### DFS和BFS
+### DFS和BFS(11)
 
 [993. 二叉树的堂兄弟节点 - 力扣（LeetCode）](https://leetcode.cn/problems/cousins-in-binary-tree/)
 
@@ -300,9 +362,11 @@
 
 [464. 我能赢吗 - 力扣（LeetCode）](https://leetcode.cn/problems/can-i-win/description/)
 
+[77. 组合 - 力扣（LeetCode）](https://leetcode.cn/problems/combinations/description/)
 
 
-### 单调队列
+
+### 单调队列(11)
 
 [239. 滑动窗口最大值 - 力扣（LeetCode）](https://leetcode.cn/problems/sliding-window-maximum/)
 
@@ -330,7 +394,7 @@
 
 
 
-### 单调栈
+### 单调栈(13)
 
 [155. 最小栈 - 力扣（LeetCode）](https://leetcode.cn/problems/min-stack/)
 
@@ -358,7 +422,7 @@
 
 [316. 去除重复字母 - 力扣（LeetCode）](https://leetcode.cn/problems/remove-duplicate-letters/)
 
-### 动态规划
+### 动态规划(16)
 
 [70. 爬楼梯 - 力扣（LeetCode）](https://leetcode.cn/problems/climbing-stairs/)
 
@@ -368,9 +432,45 @@
 
 [968. 监控二叉树 - 力扣（LeetCode）](https://leetcode.cn/problems/binary-tree-cameras/description/)
 
+[746. 使用最小花费爬楼梯 - 力扣（LeetCode）](https://leetcode.cn/problems/min-cost-climbing-stairs/)
+
+[256. 粉刷房子 - 力扣（LeetCode）](https://leetcode.cn/problems/paint-house/)
+
+[120. 三角形最小路径和 - 力扣（LeetCode）](https://leetcode.cn/problems/triangle/)
+
+[119. 杨辉三角 II - 力扣（LeetCode）](https://leetcode.cn/problems/pascals-triangle-ii/)
+
+[198. 打家劫舍 - 力扣（LeetCode）](https://leetcode.cn/problems/house-robber/)
+
+[122. 买卖股票的最佳时机 II - 力扣（LeetCode）](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/)
+
+[152. 乘积最大子数组 - 力扣（LeetCode）](https://leetcode.cn/problems/maximum-product-subarray/)
+
+[322. 零钱兑换 - 力扣（LeetCode）](https://leetcode.cn/problems/coin-change/)
+
+[300. 最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/)
+
+[LCR 094. 分割回文串 II - 力扣（LeetCode）](https://leetcode.cn/problems/omKAoA/description/)
+
+[LCR 095. 最长公共子序列](https://leetcode.cn/problems/qJnOS7/)
+
+0/1背包
+
+[714. 买卖股票的最佳时机含手续费 - 力扣（LeetCode）](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+
+[213. 打家劫舍 II - 力扣（LeetCode）](https://leetcode.cn/problems/house-robber-ii/)
+
+[416. 分割等和子集 - 力扣（LeetCode）](https://leetcode.cn/problems/partition-equal-subset-sum/)
+
+[474. 一和零 - 力扣（LeetCode）](https://leetcode.cn/problems/ones-and-zeroes/)
+
+[518. 零钱兑换 II - 力扣（LeetCode）](https://leetcode.cn/problems/coin-change-ii/)
+
+[377. 组合总和 Ⅳ - 力扣（LeetCode）](https://leetcode.cn/problems/combination-sum-iv/description/)
 
 
-### 其他
+
+### 其他(15)
 
 [860. 柠檬水找零 - 力扣（LeetCode）](https://leetcode.cn/problems/lemonade-change/)
 
@@ -385,3 +485,19 @@
 [384. 打乱数组 - 力扣（LeetCode）](https://leetcode.cn/problems/shuffle-an-array/description/)
 
 [380. O(1) 时间插入、删除和获取随机元素 - 力扣（LeetCode）](https://leetcode.cn/problems/insert-delete-getrandom-o1/)
+
+[78. 子集 - 力扣（LeetCode）](https://leetcode.cn/problems/subsets/)
+
+[47. 全排列 II - 力扣（LeetCode）](https://leetcode.cn/problems/permutations-ii/description/)
+
+[41. 缺失的第一个正数 - 力扣（LeetCode）](https://leetcode.cn/problems/first-missing-positive/description/)
+
+[204. 计数质数 - 力扣（LeetCode）](https://leetcode.cn/problems/count-primes/description/)
+
+[504. 七进制数 - 力扣（LeetCode）](https://leetcode.cn/problems/base-7/)
+
+[461. 汉明距离 - 力扣（LeetCode）](https://leetcode.cn/problems/hamming-distance/)
+
+[528. 按权重随机选择 - 力扣（LeetCode）](https://leetcode.cn/problems/random-pick-with-weight/)
+
+[462. 最小操作次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/)
