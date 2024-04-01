@@ -1,4 +1,4 @@
-# 目前218道，先就这吧。
+# 目前247道，先就这吧。
 
 ### 字符串(11)
 
@@ -501,3 +501,65 @@
 [528. 按权重随机选择 - 力扣（LeetCode）](https://leetcode.cn/problems/random-pick-with-weight/)
 
 [462. 最小操作次数使数组元素相等 II](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/)
+
+
+
+### 增加（29）
+
+[283. 移动零](https://leetcode.cn/problems/move-zeroes/)
+
+[15. 三数之和](https://leetcode.cn/problems/3sum/)
+
+[438. 找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/)
+
+[986. 区间列表的交集](https://leetcode.cn/problems/interval-list-intersections/)
+
+[560. 和为 K 的子数组](https://leetcode.cn/problems/subarray-sum-equals-k/)
+
+[76. 最小覆盖子串](https://leetcode.cn/problems/minimum-window-substring/)
+
+[88. 合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)
+
+[189. 轮转数组](https://leetcode.cn/problems/rotate-array/)
+
+[238. 除自身以外数组的乘积](https://leetcode.cn/problems/product-of-array-except-self/)
+
+[73. 矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/)
+
+[54. 螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)
+
+[24. 两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/)
+
+[104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)
+
+[101. 对称二叉树](https://leetcode.cn/problems/symmetric-tree/)
+
+[543. 二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)
+
+[114. 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/)
+
+[199. 二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/)
+
+[236. 二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/)
+
+[124. 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/)
+
+[994. 腐烂的橘子](https://leetcode.cn/problems/rotting-oranges/)
+
+[208. 实现 Trie (前缀树)](https://leetcode.cn/problems/implement-trie-prefix-tree/)
+
+[46. 全排列](https://leetcode.cn/problems/permutations/)
+
+[17. 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)
+
+[22. 括号生成](https://leetcode.cn/problems/generate-parentheses/)
+
+[131. 分割回文串](https://leetcode.cn/problems/palindrome-partitioning/)
+
+[74. 搜索二维矩阵](https://leetcode.cn/problems/search-a-2d-matrix/)
+
+[33. 搜索旋转排序数组](https://leetcode.cn/problems/search-in-rotated-sorted-array/)
+
+[153. 寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/)
+
+[347. 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/)
